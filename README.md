@@ -1,4 +1,4 @@
-# algeria-balance-of-payments-arima-forecasting
+# Algeria-balance-of-payments-arima-forecasting
 Modelado ARIMA y análisis econométrico de la balanza de pagos trimestral de Argelia.
 # 📈 Previsión Macroeconómica: Balanza de Pagos Trimestral de Argelia (Modelo ARIMA)
 
